@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(17, 17, 17);
+    color: rgb(223, 217, 217);
+}
+
+h1 {
+    background-color: rgb(94, 94, 13);
+    text-align: center;
+    font-size: 50px;
+    display:
+}
+
+a, ul {
+    font-size: 30px;
+}
+
+a:link {
+    color:rgb(223, 217, 217)
+}
+
+a:visited {
+    color: rgb(94, 94, 13);
+}
+
+a:hover {
+    color: rgb(148, 18, 18);
+}
