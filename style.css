@@ -1,48 +1,48 @@
 * {
     font-size: 20px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-body {
+.body {
     background-color: rgb(17, 17, 17);
     color: rgb(223, 217, 217);
 }
 
-h1 {
+.header {
     background-color: rgb(94, 94, 13);
     text-align: center;
-    font-size: 50px;
-    display:
 }  
 
-h2 {
-    background-color: rgb(94, 94, 13);
-    text-align: center;
+.section.header {
+    font-size: 50px;
+}
+
+.subsection.header {
     font-size: 35px;
 }
 
-p {
+.description.para {
     text-align: center;
 }
 
-img {
+.food.img {
     display: block;
     margin-right: auto;
     margin-left: auto;
 }
 
-a {
+.recipe.link {
     font-size: 30px;
 }
 
-a:link {
+.recipe.link:link {
     color:rgb(223, 217, 217)
 }
 
-a:visited {
+.recipe.link:visited {
     color: rgb(94, 94, 13);
 }
 
-a:hover {
+.recipe.link:hover {
     color: rgb(148, 18, 18);
 }
